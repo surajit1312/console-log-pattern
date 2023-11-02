@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/surajit1312/console-log-pattern/issues"
   },
-  "homepage": "https://github.com/surajit1312/console-log-pattern#readme",
-  "dependencies": {
-    "nodemon": "^3.0.1"
-  }
+  "homepage": "https://github.com/surajit1312/console-log-pattern#readme"
 }
