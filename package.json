@@ -1,6 +1,6 @@
 {
   "name": "console-log-pattern",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enhance your console logs with stunning, multicolored pattern output with messages",
   "main": "src/index.js",
   "scripts": {
