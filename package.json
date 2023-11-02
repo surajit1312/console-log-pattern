@@ -1,0 +1,25 @@
+{
+  "name": "console-log-pattern",
+  "version": "1.0.0",
+  "description": "Enhance your console logs with stunning, multicolored pattern output with messages",
+  "main": "index.js",
+  "scripts": {
+    "demo": "nodemon ./src/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajit1312/console-log-pattern.git"
+  },
+  "keywords": [
+    "console.log",
+    "console",
+    "logger",
+    "colorful-logger"
+  ],
+  "author": "Surajit Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/surajit1312/console-log-pattern/issues"
+  },
+  "homepage": "https://github.com/surajit1312/console-log-pattern#readme"
+}
